@@ -4,14 +4,15 @@ Changelog for package elite_robots_description
 
 1.1.0 (2026-11-03)
 ------------------
-* Add CS63A and CS630 models, including kinematic and physical parameters, joint limits, and visual and collision meshes.
-* Add CS63A and CS630 to the supported robot types in the Xacro descriptions and RViz launch file.
+* Synchronize CS63A and CS630 models, configuration, and launch support from Humble.
+* Remove the obsolete nested copy of the description package.
+* Validate all thirteen models with and without a TF prefix, including mesh resources.
 * Add maintainer contact information.
 * Use the public GitHub clone URL in the English and Chinese READMEs.
 
 1.0.0 (2026-07-28)
 ------------------
-* Initial release for ROS 2 Humble.
+* Initial release for ROS 2 Jazzy.
 * Added Xacro and URDF descriptions for the Elite Robots CS and LS series,
   including CS63, CS66, CS66A, CS68, CS612, CS616, CS618F, CS620, CS625,
   CS520H, and LS65.

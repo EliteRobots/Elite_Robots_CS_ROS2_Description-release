@@ -11,7 +11,7 @@ collision meshes, and a launch file for viewing the robots in RViz2.
 
 | Series | Models |
 | --- | --- |
-| CS | `cs63`, `cs66`, `cs66a`, `cs68`, `cs612`, `cs616`, `cs618f`, `cs620`, `cs625`, `cs520h` |
+| CS | `cs63`, `cs63a`, `cs66`, `cs66a`, `cs68`, `cs612`, `cs616`, `cs618f`, `cs620`, `cs625`, `cs630`, `cs520h` |
 | LS | `ls65` |
 
 The `cs520h` is a five-axis model. The launch file automatically selects its
