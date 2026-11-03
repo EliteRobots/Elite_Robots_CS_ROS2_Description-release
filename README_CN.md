@@ -31,7 +31,7 @@
 ```bash
 mkdir -p ~/elite_ros_ws/src
 cd ~/elite_ros_ws/src
-git clone <repository-url> Elite_Robots_CS_ROS2_Description
+git clone https://github.com/EliteRobots/Elite_Robots_CS_ROS2_Description.git
 
 cd ~/elite_ros_ws
 rosdep install --from-paths src --ignore-src -r -y
