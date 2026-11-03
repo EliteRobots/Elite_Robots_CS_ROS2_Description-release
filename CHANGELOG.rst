@@ -2,6 +2,13 @@
 Changelog for package elite_robots_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.0 (2026-11-03)
+------------------
+* Add CS63A and CS630 models, including kinematic and physical parameters, joint limits, and visual and collision meshes.
+* Add CS63A and CS630 to the supported robot types in the Xacro descriptions and RViz launch file.
+* Add maintainer contact information.
+* Use the public GitHub clone URL in the English and Chinese READMEs.
+
 1.0.0 (2026-07-28)
 ------------------
 * Initial release for ROS 2 Humble.
