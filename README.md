@@ -1,3 +1,26 @@
+## elite_robots_description (jazzy) - 1.1.0-1
+
+The packages in the `elite_robots_description` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release elite_robots_description --rosdistro jazzy --track jazzy --edit` on `Tue, 03 Nov 2026 10:01:37 -0000`
+
+The `elite_robots_description` package was released.
+
+Version of package(s) in repository `elite_robots_description`:
+
+- upstream repository: https://github.com/EliteRobots/Elite_Robots_CS_ROS2_Description.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.4`
+- catkin_pkg version: `1.1.1`
+- rosdep version: `0.27.0`
+- rosdistro version: `1.1.0`
+- vcstools version: `0.1.42`
+
+
 ## elite_robots_description (humble) - 1.1.0-1
 
 The packages in the `elite_robots_description` repository were released into the `humble` distro by running `/usr/bin/bloom-release elite_robots_description --rosdistro humble --track humble --edit` on `Tue, 03 Nov 2026 09:50:08 -0000`
