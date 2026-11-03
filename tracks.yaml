@@ -23,8 +23,8 @@ tracks:
     patches: null
     release_inc: '1'
     release_repo_url: null
-    release_tag: humble-1.0.0
+    release_tag: humble-1.1.0
     ros_distro: humble
     vcs_type: git
     vcs_uri: https://github.com/EliteRobots/Elite_Robots_CS_ROS2_Description.git
-    version: 1.0.0
+    version: 1.1.0
